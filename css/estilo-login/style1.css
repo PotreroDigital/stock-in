@@ -1,0 +1,96 @@
+html{
+  position: relative;
+}
+
+
+
+.container{
+ display: inline-block;
+ text-align: center;
+
+}
+
+.card-footer {
+  bottom: 0;
+  position:;
+  width: 100%;
+  height:150px;
+}
+
+.footer{
+
+}
+
+.logo-img {
+  text-align: center;
+}
+
+.container-img{
+  text-align: center;
+}
+
+
+
+.formulario{
+  text-align: center;
+}
+.formulario-login{
+  text-align: center;
+  height: 400px;
+}
+
+
+
+
+h1 {
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  font-size: 28px;
+}
+img{
+  text-align: center;
+}
+header{
+  height: auto;
+}
+
+body {
+ text-align: center;
+ margin-top: 150px;
+ margin:0;
+}
+
+footer{
+text-align:center;
+
+}
+
+/*Separadores*/
+.separador{
+  height: 150px;
+}
+
+.separador1{
+  height: 100px;
+}
+
+.separador-medio{
+height: 3px;
+}
+
+.separador-grande{
+height: 100px;
+}
+
+
+
+/*.columna1 {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: Black;
+  width: 50px;
+  height: 100px;
+}*/

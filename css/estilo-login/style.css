@@ -1,0 +1,69 @@
+.container{
+ display: inline-block;
+ text-align: center;
+
+}
+img{
+  text-align: center;
+}
+header{
+  height: auto;
+}
+
+body {
+ text-align: center;
+}
+
+footer{
+  background-color: #343536;
+  bottom: 0;
+  text-align: center;
+  bottom: 0;
+}
+
+.container-img{
+  text-align: center;
+}
+
+.formulario{
+  text-align: center;
+}
+.formulario-login{
+  text-align: center;
+  height: 400px;
+}
+
+
+
+
+h1 {
+  text-align: center;
+}
+
+p{
+  text-align: center;
+  font-size: 28px;
+}
+
+/*Separadores*/
+.separador{
+  height: 50px;
+}
+
+.separador1{
+  height: 10px;
+}
+
+.separador-medio{
+height: 3px;
+}
+
+
+
+/*.columna1 {
+  margin-left: auto;
+  margin-right: auto;
+  background-color: Black;
+  width: 50px;
+  height: 100px;
+}*/
